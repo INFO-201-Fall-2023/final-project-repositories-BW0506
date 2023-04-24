@@ -52,6 +52,7 @@ https://www.cfr.org/blog/promise-digital-activism-and-its-dangers-0
 -This is different from our project idea because our project won’t only be talking about the dangers of digital activism but it will also include how it can be a powerful tool for change.
 
 https://en.reset.org/digital-and-online-activism/ 
+
 -This is similar to our project idea because it talks about digital tools can bring about social change which we will be examining in our project based on how digital tools can specifically change the way a company views its responsibility towards society.
 
 -This is different from our project idea because it concentrates more on broad social change rather than corporate social responsibility itself which refers to a company’s stances on the environment, politics, etc. 
