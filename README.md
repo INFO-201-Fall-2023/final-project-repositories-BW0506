@@ -39,3 +39,32 @@ This story is interesting and compelling because it delves into the potential po
 
 **Background Research/Inspiration**
 
+https://hbr.org/2020/06/were-entering-the-age-of-corporate-social-justice
+
+-This is similar to our project idea because it examines corporate social justice and how it can be utilized to create healthier and mutually beneficial relationships between companies and the communities they interact with.
+
+-This is different from our project idea because it focuses more on helping companies be socially responsible while our project will analyze their social responsibility based on the effects of online activism.
+
+https://www.cfr.org/blog/promise-digital-activism-and-its-dangers-0 
+
+-This is similar to our project idea because it talks about the pitfalls of online activism and the ways it can allow people to feel like they’re having an impact without actually changing anything.
+
+-This is different from our project idea because our project won’t only be talking about the dangers of digital activism but it will also include how it can be a powerful tool for change.
+
+https://en.reset.org/digital-and-online-activism/ 
+-This is similar to our project idea because it talks about digital tools can bring about social change which we will be examining in our project based on how digital tools can specifically change the way a company views its responsibility towards society.
+
+-This is different from our project idea because it concentrates more on broad social change rather than corporate social responsibility itself which refers to a company’s stances on the environment, politics, etc. 
+
+https://www.forbes.com/sites/forbescommunicationscouncil/2019/06/14/why-corporate-social-responsibility-matters/?sh=6c023b5032e1 
+
+-This is similar to our project because it talks about the importance of corporate social responsibility in the grand scheme of things and why it matters in relation to current events.
+
+-This is different from our project idea because it doesn’t talk about the impact that online activism can have on the concept of corporate social responsibility which leaves out a significant amount of data from that factor. 
+
+https://sloanreview.mit.edu/article/why-companies-practice-corporate-social-responsibility/ 
+
+-This is similar to our project idea because it talks about why companies practice corporate social media and our project will explore why one of the reasons as online activism and the power it has to create this change.
+
+-This is different from our project idea because our main focus is what online activism can do and not how corporate social responsibility will be practiced which is something that this article mainly talks about. 
+
