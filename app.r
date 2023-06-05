@@ -10,9 +10,9 @@ source("R test.R")
 
 ui <- navbarPage("Online Activism Analyze",
   tabPanel("Introduction",
-           h2("The reason why we chose to analysis Online Activism"),
+           h2("The reason why we chose to analyze Online Activism"),
            h3("Online activism may be a term that many people are unfamiliar with. As a product of the new era, it is a way to express our voice and defend our rights and interests, so I think this topic is full of interest. 
-              In the following part, I will analyze the success rate of Internet activism in the world, and try to combine online activism with CSR to find the connection between them."),
+              In the following part, we will analyze the success rate of Internet activism in the world, and try to combine online activism with CSR to find the connection between them."),
            imageOutput("homeimg")
            ),
   
@@ -51,7 +51,7 @@ ui <- navbarPage("Online Activism Analyze",
                  tabPanel("Plot", plotlyOutput(outputId = "plot")),
                  tabPanel("About",
                           h3("About the Data"),
-                          p("As can be seen from the figure, there are as many as 3,178 CSR companies in the United States. 
+                          p("As can be seen from the figure, there are over 3,178 CSR companies in the United States. 
                             Meanwhile, compared with other countries, the number of online activism in the United States is also much higher. 
                             The trend is similar in Britain. Although there are many factors affecting these two data, it is not difficult to see that 
                             the number of CSR companies in a country increases with the number of online activism.")
@@ -110,7 +110,7 @@ server <- function(input, output){
   })
   output$rate <- renderPlotly({
     rate_p <- ggplot(data = merge_df, aes(x = achieved_percent, y = mean_CSR_score, group = 1, label = Countryname)) +
-      labs(x = "success rate of online activism", y = "The mean score of CSR Companies") +
+      labs(x = "The success rate of online activism", y = "The mean score of CSR Companies") +
       geom_line() +
       geom_point()
     return(rate_p)
